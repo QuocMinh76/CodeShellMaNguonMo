@@ -4,4 +4,4 @@
 
 Các file pdf là file đề. File .sh là các file code.
 
-Muốn chạy script, trước hết phải cài máy ảo ubuntu (linux nói chung). Sau đó cài đặt những thứ cần thiết (ví dụ muốn chạy python thì phải cài python).
+Nhớ, trước khi chạy phải cấp quyền execute cho file
